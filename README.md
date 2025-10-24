@@ -2,7 +2,7 @@
 
 This project estimates vaccine effectiveness (VE) and its posterior uncertainty using a compact Bayesian binomial model implemented in JAGS (via rjags). The notebook also includes age-stratified analysis and simple visualizations.
 
-## 🧠 What I Did
+## 🧠 What We Did
 
 Built a generative two-arm model (placebo vs. vaccinated)
 
